@@ -9,7 +9,7 @@ O projeto foi implementado no React que ao meu ver fica muito mais complexo, ain
 
 Styled-Components foi usado para fazer a estilização da tela do formulário, segundo o instrutor essa lib serve para facilitar e agilizar a estilização mas prefiro fazer no CSS é muito mais fácil sendo que no styled-components não tem o auto-complete e só funciona com a instalação dos pacotes usando npm.
 
-Uma outra lib usada foi o React Hook Form, que também achei bem dificil de usar. Segundo o instrutor essa lib serve para facilitar a integração do formulario com o JavaScript do projeto. Bem "Facilitar"? tenho minhas dúvidas, não percebi facilidade e sim muita complexidade.
+Uma outra lib usada foi o React Hook Form, que também achei bem dificil de usar. Segundo o instrutor essa lib serve para facilitar a integração do formulario com o JavaScript do projeto. Bem "Facilitar"? Tenho minhas dúvidas, não percebi facilidade e sim muita complexidade.
 
 
 # 💻 Tecnologias usadas:
@@ -25,8 +25,7 @@ Uma outra lib usada foi o React Hook Form, que também achei bem dificil de usar
      * Styled-Components
      * React Hook Form
 
-![image](https://user-images.githubusercontent.com/84928607/206278906-fd83370c-248c-4b70-bf3d-c373ba6787f0.png)
-
+![telalogin](C:\Users\Samue\AppData\Roaming\Typora\typora-user-images\image-20221207163214832.png)
 
 
 
