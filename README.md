@@ -14,17 +14,22 @@ Uma outra lib usada foi o React Hook Form, que também achei bem dificil de usar
 
 # 💻 Tecnologias usadas:
 
-    * HTML
+    *HTML
     * CSS
     * Javascript
     * React
     * TypeScript
 
 # 💻 Libs usadas:
-     
+
      * Styled-Components
      * React Hook Form
-    
+
+![image-20221207163214832](C:\Users\Samue\AppData\Roaming\Typora\typora-user-images\image-20221207163214832.png)
+
+
+
 
 
 Teste de modificação.
+
