@@ -14,7 +14,7 @@ Uma outra lib usada foi o React Hook Form, que também achei bem dificil de usar
 
 # 💻 Tecnologias usadas:
 
-    *HTML
+    * HTML
     * CSS
     * Javascript
     * React
