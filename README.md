@@ -25,7 +25,8 @@ Uma outra lib usada foi o React Hook Form, que também achei bem dificil de usar
      * Styled-Components
      * React Hook Form
 
-![telalogin](C:\Users\Samue\AppData\Roaming\Typora\typora-user-images\image-20221207163214832.png)
+![image](https://user-images.githubusercontent.com/84928607/206278906-fd83370c-248c-4b70-bf3d-c373ba6787f0.png)
+
 
 
 
