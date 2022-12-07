@@ -14,16 +14,16 @@ Uma outra lib usada foi o React Hook Form, que também achei bem dificil de usar
 
 # 💻 Tecnologias usadas:
 
-    **HTML**
-    **CSS**
-    **Javascript**
-    **React**
-    **TypeScript**
+    - HTML
+    - CSS
+    - Javascript
+    - React
+    - TypeScript
 
 # 💻 Libs usadas:
      
-     **Styled-Components**
-     **React Hook Form**
+     - Styled-Components**
+     - React Hook Form**
     
 
 
