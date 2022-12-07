@@ -1,3 +1,5 @@
+# Este é um Projeto de tela de login feito com o React e convertido para TypeScript do Curso da DIO, segue algumas informações com as modificações que eu fiz ao meu gosto.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +46,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+Teste de modificação.

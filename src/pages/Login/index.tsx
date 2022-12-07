@@ -6,10 +6,15 @@ import * as yup from "yup";
 
 import { Container, LoginContainer, Column, Spacing, Title } from "./styles";
 import { defaultValues, IFormLogin } from "./types";
+import { watch } from "fs";
 
 const schema = yup
-  .object({
-    email: yup.string().email("E-mail inválido").required("Campo obrigatório"),
+    .object({
+    email: yup
+    .string()
+    .email("E-mail inválido")
+    .required("Campo obrigatório"),
+
     password: yup
       .string()
       .min(6, "No minimo 6 caracteres")
@@ -18,15 +23,15 @@ const schema = yup
   .required();
 
 const Login = () => {
-  const {
-    control,
-    formState: { errors, isValid },
-  } = useForm<IFormLogin>({
+  const { control, formState: { errors, isValid }, } = useForm<IFormLogin>({
     resolver: yupResolver(schema),
     mode: "onBlur",
     defaultValues,
     reValidateMode: "onChange",
   });
+
+
+  
 
   return (
     <Container>
